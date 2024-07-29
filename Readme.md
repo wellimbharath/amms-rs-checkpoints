@@ -2,6 +2,9 @@
 
 Checkpoints for uiswap v2 syncing to save rpc calls
 
+Amms-rs : https://github.com/darkforestry/amms-rs
+
+
 ```rust
     // Replace the checkpoint filename to resume from the recent sync.
     // Sync pairs
